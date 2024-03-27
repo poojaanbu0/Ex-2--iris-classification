@@ -152,16 +152,18 @@ plt.show()
 ```
 
 # OUTPUT:
-
-
-# Dataset
+### Dataset:
 ![image](https://github.com/poojaanbu0/Ex-2--iris-classification/assets/119390329/bee8ce83-5aa9-4977-9e36-b1d7e8834644)
 ![image](https://github.com/poojaanbu0/Ex-2--iris-classification/assets/119390329/733f444d-3e45-4201-b17d-8b07b8457244)
+
+### ScatterPlot:
 ![image](https://github.com/poojaanbu0/Ex-2--iris-classification/assets/119390329/61b29a7f-ba11-47ce-8858-5abc3c29a9e4)
+
+### ERROR PLOT:
 ![image](https://github.com/poojaanbu0/Ex-2--iris-classification/assets/119390329/4ef35fe5-b34c-4413-9c66-a72b64332713)
+
+### Accuracy:
 ![image](https://github.com/poojaanbu0/Ex-2--iris-classification/assets/119390329/718c903d-c5c4-45e1-a700-0a8160dc948a)
 
 # RESULT:
  Thus, a single layer perceptron model is implemented using python to classify Iris data set.
-
- 
