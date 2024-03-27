@@ -1,4 +1,4 @@
-## Implementation of Perceptron for Binary Classification
+## Exp-2-Implementation of Perceptron for Binary Classification
 <H3>Name:Pooja.A</H3>
 <H3>Register no.:212222240072</H3>
 <H3>Date:15/03/2024</H3>
