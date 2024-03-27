@@ -153,6 +153,8 @@ plt.show()
 
 # OUTPUT:
 
+
+# Dataset
 ![image](https://github.com/poojaanbu0/Ex-2--iris-classification/assets/119390329/bee8ce83-5aa9-4977-9e36-b1d7e8834644)
 ![image](https://github.com/poojaanbu0/Ex-2--iris-classification/assets/119390329/733f444d-3e45-4201-b17d-8b07b8457244)
 ![image](https://github.com/poojaanbu0/Ex-2--iris-classification/assets/119390329/61b29a7f-ba11-47ce-8858-5abc3c29a9e4)
